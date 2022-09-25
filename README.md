@@ -8,11 +8,11 @@ In this repository I will collect all the electronics companies in Palestine in 
 
 | # | Logo | Company Name  |  Company/Online Page  | Link | Contact | Location |
 | :---:  | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | <img width="100%" height="100%" src="./Images/LampaTronics.png"> | JARU Yahya Electronics | Company | [Website](https://www.facebook.com/Jaruelec) | 0597554994 - [Email](mailto:info@lampatronics.com) | Gaza - Othman bin Affan Street - opposite the municipality park, Palestine |
-| 2 | <img width="100%" height="100%" src="./Images/LampaTronics.png"> | zimmo electronics | Company | [Website](https://www.facebook.com/zimmoelectronics) | 0599415465 - [Email](mailto:info@lampatronics.com) | Gaza Alremal - Palmyra Street and the Thailandy extension to the north, Palestine |
-| 3 | <img width="100%" height="100%" src="./Images/LampaTronics.png"> | Sawaf electronics | Company | [Website](https://www.facebook.com/sawaf.sa) | 0599728987 - [Email](mailto:info@lampatronics.com) | Gaza - Fahmy Bek Street, Palestine |
-| 4 | <img width="100%" height="100%" src="./Images/LampaTronics.png"> | Vision Tech | Company | [Website](https://www.facebook.com/vision.tech2009) | 0595247805 - [Email](mailto:info@lampatronics.com) | Gaza - East alsenaa intersection next to the Tower of David, Palestine |
-| 5 | <img width="100%" height="100%" src="./Images/LampaTronics.png"> | All Tech | Company | [Website](https://www.facebook.com/AllTechPal2) | 0599061138 - [Email](mailto:info@lampatronics.com) | Gaza - Saraya Crossing in front of Abu Khadra, Palestine |
+| 1 | <img width="100%" height="100%" src="./Images/image1.jpg"> | JARU Yahya Electronics | Company | [Website](https://www.facebook.com/Jaruelec) | 0597554994 - [Email](mailto:info@lampatronics.com) | Gaza - Othman bin Affan Street - opposite the municipality park, Palestine |
+| 2 | <img width="100%" height="100%" src="./Images/image2.jpg"> | zimmo electronics | Company | [Website](https://www.facebook.com/zimmoelectronics) | 0599415465 - [Email](mailto:info@lampatronics.com) | Gaza Alremal - Palmyra Street and the Thailandy extension to the north, Palestine |
+| 3 | <img width="100%" height="100%" src="./Images/image3.jpg"> | Sawaf electronics | Company | [Website](https://www.facebook.com/sawaf.sa) | 0599728987 - [Email](mailto:info@lampatronics.com) | Gaza - Fahmy Bek Street, Palestine |
+| 4 | <img width="100%" height="100%" src="./Images/image4.png"> | Vision Tech | Company | [Website](https://www.facebook.com/vision.tech2009) | 0595247805 - [Email](mailto:info@lampatronics.com) | Gaza - East alsenaa intersection next to the Tower of David, Palestine |
+| 5 | <img width="100%" height="100%" src="./Images/image5.png"> | All Tech | Company | [Website](https://www.facebook.com/AllTechPal2) | 0599061138 - [Email](mailto:info@lampatronics.com) | Gaza - Saraya Crossing in front of Abu Khadra, Palestine |
 
 
 # The List (Facebook Pages)
